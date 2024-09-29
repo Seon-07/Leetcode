@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Seon-07/Leetcode/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/Seon-07/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Seon-07/Leetcode/tree/master/0013-roman-to-integer) |
 | [3379-score-of-a-string](https://github.com/Seon-07/Leetcode/tree/master/3379-score-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Seon-07/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
