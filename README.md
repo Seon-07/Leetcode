@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Seon-07/Leetcode/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/Seon-07/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Seon-07/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Seon-07/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Seon-07/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Seon-07/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Seon-07/Leetcode/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/Seon-07/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Seon-07/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Seon-07/Leetcode/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/Seon-07/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/Seon-07/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Seon-07/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Seon-07/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -38,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Seon-07/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Seon-07/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Seon-07/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Seon-07/Leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
