@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Seon-07/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Seon-07/Leetcode/tree/master/0013-roman-to-integer) |
+| [0782-jewels-and-stones](https://github.com/Seon-07/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Seon-07/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Seon-07/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Seon-07/Leetcode/tree/master/0013-roman-to-integer) |
+| [0782-jewels-and-stones](https://github.com/Seon-07/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Seon-07/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Seon-07/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Seon-07/Leetcode/tree/master/3379-score-of-a-string) |
